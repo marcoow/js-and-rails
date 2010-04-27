@@ -1,5 +1,7 @@
 <b>Fresh new content rendered at <%= Time.now.to_f %></b>
 <%= link_to 'Replace again', controls_replace_path, :id => 'secondReplacerLink' %>
 <script type="text/javascript" charset="utf-8">
+  // No document.observe('dom:loaded') here since this is inserted via AJAX (dom:loaded will
+  // not be invoked at the time this is inserted into the DOM).
   var newReplacer = new Replacer('secondReplacerLink', 'someElement');
 </script>

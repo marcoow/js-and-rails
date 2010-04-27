@@ -1,3 +1,20 @@
 == Sample Projects for my talk on JavaScript and Rails
 
 The talk can be found here: .
+
+The sample shows 3 approaches to integrate JavaScript and Rails. The first one is the classic solution that
+relies on Rails Helpers like +link_to_remote+, RJS etc. The second one uses custom JavaScript controls that
+are instantiated in the views. The third approach completely separates the JavaScript from the HTML and uses
+HTML5-style +data-*+ Attributes.
+
+=== Running it
+
+Simply start the server:
+
+  ./script/server
+
+There is no DB or aynthing else that you need to set up. Go to
+
+  http://localhost:3000
+
+and check out the 3 different approaches.

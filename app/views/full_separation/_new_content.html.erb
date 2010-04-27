@@ -1,2 +1,7 @@
 <b>Fresh new content rendered at <%= Time.now.to_f %></b>
+<%#
+  We don't need to care about setup of this replaceing trigger since Application.setupOnPageUpdate
+  will be automagically invoked after AJAX actions as it is registered as a handler for the
+  global onComplete event that is fired for all AJAX requests.
+%>
 <%= link_to 'Replace again', full_separation_replace_path, :'data-replaces' => 'someElement' %>
