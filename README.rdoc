@@ -5,7 +5,7 @@ The talk can be found here: .
 The sample shows 3 approaches to integrate JavaScript and Rails. The first one is the classic solution that
 relies on Rails Helpers like +link_to_remote+, RJS etc. The second one uses custom JavaScript controls that
 are instantiated in the views. The third approach completely separates the JavaScript from the HTML and uses
-HTML5-style +data-*+ Attributes.
+HTML5-style `data-*` Attributes.
 
 === Running it
 
