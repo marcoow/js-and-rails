@@ -1,1 +1,5 @@
-<b>Fresh new content</b>
+<b>Fresh new content rendered at <%= Time.now.to_f %></b>
+<%= link_to 'Replace again', controls_replace_path, :id => 'secondReplacerLink' %>
+<script type="text/javascript" charset="utf-8">
+  var newReplacer = new Replacer('secondReplacerLink', 'someElement');
+</script>

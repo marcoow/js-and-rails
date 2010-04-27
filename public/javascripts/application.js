@@ -11,15 +11,26 @@ var Replacer = Class.create({
     new Ajax.Updater(
       this.target,
       this.container.href, {
-        method: 'post'
+        method:      'post',
+        evalScripts: true
       }
     );
   }
 
 });
 
-document.observe('dom:loaded', function() {
+function initializeReplacers() {
   $$('a[data-replaces]').each(function(replacingLink) {
-    new Replacer(replacingLink, replacingLink.readAttribute('data-replaces'));
+    if (!replacingLink._initializedReplacer) {
+      new Replacer(replacingLink, replacingLink.readAttribute('data-replaces'));
+      replacingLink._initializedReplacer = true;
+    }
+  });
+}
+
+document.observe('dom:loaded', function() {
+  initializeReplacers();
+  Ajax.Responders.register({
+    onComplete: initializeReplacers
   });
 });

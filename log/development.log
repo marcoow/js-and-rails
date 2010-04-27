@@ -301,3 +301,916 @@ Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-27 17:25:39)
 Rendering template within layouts/application
 Rendering full_separation/index
 Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/full_separation]
+
+
+Processing ClassicSolutionController#index (for 127.0.0.1 at 2010-04-27 17:29:35) [GET]
+Rendering template within layouts/application
+Rendering classic_solution/index
+Completed in 89ms (View: 87, DB: 0) | 200 OK [http://localhost/classic_solution]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-27 17:29:37) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.8ms)
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-27 17:29:39) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.2ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-27 17:29:39) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.2ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-27 17:29:40) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.2ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-27 17:29:41) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.3ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-27 17:29:42) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.4ms)
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-27 17:29:42) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.2ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-27 17:29:42) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.3ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-27 17:29:42) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.2ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-27 17:29:43) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.3ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-27 17:29:43) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.2ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#index (for 127.0.0.1 at 2010-04-27 17:29:47) [GET]
+Rendering template within layouts/application
+Rendering classic_solution/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/classic_solution]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:29:47) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:29:47) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-27 17:29:48) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (2.5ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-27 17:29:49) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.2ms)
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-27 17:29:50) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.2ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-27 17:29:50) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.2ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-27 17:29:51) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.2ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-27 17:29:51) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.2ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-27 17:29:51) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.3ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-27 17:29:52) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.3ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-27 17:29:52) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.2ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-27 17:29:52) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.2ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-27 17:29:53) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.2ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-27 17:29:53) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.5ms)
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-27 17:29:53) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.3ms)
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#index (for 127.0.0.1 at 2010-04-27 17:30:03) [GET]
+Rendering template within layouts/application
+Rendering classic_solution/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/classic_solution]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:30:04) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:30:04) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ControlsController#index (for 127.0.0.1 at 2010-04-27 17:30:08) [GET]
+Rendering template within layouts/application
+Rendering controls/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/controls]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:30:09) [POST]
+Rendered controls/_new_content (0.5ms)
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:30:11) [POST]
+Rendered controls/_new_content (0.1ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#index (for 127.0.0.1 at 2010-04-27 17:30:39) [GET]
+Rendering template within layouts/application
+Rendering controls/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/controls]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:30:39) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:30:39) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:30:40) [POST]
+Rendered controls/_new_content (0.9ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:30:42) [GET]
+
+ActionController::MethodNotAllowed (Only post requests are allowed.):
+  
+
+Rendered rescues/_trace (97.8ms)
+Rendered rescues/_request_and_response (1.3ms)
+Rendering rescues/layout (method_not_allowed)
+
+
+Processing ControlsController#index (for 127.0.0.1 at 2010-04-27 17:30:43) [GET]
+Rendering template within layouts/application
+Rendering controls/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/controls]
+
+
+Processing ControlsController#index (for 127.0.0.1 at 2010-04-27 17:30:48) [GET]
+Rendering template within layouts/application
+Rendering controls/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/controls]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:30:49) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:30:49) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:30:50) [POST]
+Rendered controls/_new_content (0.8ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:30:51) [GET]
+
+ActionController::MethodNotAllowed (Only post requests are allowed.):
+  
+
+Rendered rescues/_trace (26.7ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (method_not_allowed)
+
+
+Processing ControlsController#index (for 127.0.0.1 at 2010-04-27 17:30:53) [GET]
+Rendering template within layouts/application
+Rendering controls/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/controls]
+
+
+Processing ControlsController#index (for 127.0.0.1 at 2010-04-27 17:30:54) [GET]
+Rendering template within layouts/application
+Rendering controls/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/controls]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:30:54) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:30:54) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:30:55) [POST]
+Rendered controls/_new_content (0.4ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#index (for 127.0.0.1 at 2010-04-27 17:30:56) [GET]
+Rendering template within layouts/application
+Rendering controls/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/controls]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:30:56) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:30:56) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:30:59) [POST]
+Rendered controls/_new_content (0.4ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:31:00) [GET]
+
+ActionController::MethodNotAllowed (Only post requests are allowed.):
+  
+
+Rendered rescues/_trace (26.8ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (method_not_allowed)
+
+
+Processing ControlsController#index (for 127.0.0.1 at 2010-04-27 17:31:10) [GET]
+Rendering template within layouts/application
+Rendering controls/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/controls]
+
+
+Processing ControlsController#index (for 127.0.0.1 at 2010-04-27 17:31:36) [GET]
+Rendering template within layouts/application
+Rendering controls/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/controls]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:31:36) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:31:36) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ControlsController#index (for 127.0.0.1 at 2010-04-27 17:31:52) [GET]
+Rendering template within layouts/application
+Rendering controls/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/controls]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:31:52) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:31:52) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:31:58) [POST]
+Rendered controls/_new_content (0.9ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:32:18) [POST]
+Rendered controls/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:32:19) [POST]
+Rendered controls/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:32:19) [POST]
+Rendered controls/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:32:19) [POST]
+Rendered controls/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:32:20) [POST]
+Rendered controls/_new_content (0.3ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:32:20) [POST]
+Rendered controls/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:32:20) [POST]
+Rendered controls/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:32:20) [POST]
+Rendered controls/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:32:20) [POST]
+Rendered controls/_new_content (0.4ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:32:21) [POST]
+Rendered controls/_new_content (0.3ms)
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:32:21) [POST]
+Rendered controls/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:32:21) [POST]
+Rendered controls/_new_content (0.9ms)
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:32:22) [POST]
+Rendered controls/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:32:23) [GET]
+
+ActionController::MethodNotAllowed (Only post requests are allowed.):
+  
+
+Rendered rescues/_trace (93.9ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (method_not_allowed)
+
+
+Processing ControlsController#index (for 127.0.0.1 at 2010-04-27 17:32:24) [GET]
+Rendering template within layouts/application
+Rendering controls/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/controls]
+
+
+Processing ControlsController#index (for 127.0.0.1 at 2010-04-27 17:32:39) [GET]
+Rendering template within layouts/application
+Rendering controls/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/controls]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:32:39) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:32:39) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ControlsController#index (for 127.0.0.1 at 2010-04-27 17:33:07) [GET]
+Rendering template within layouts/application
+Rendering controls/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/controls]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:33:07) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:33:07) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:33:09) [POST]
+Rendered controls/_new_content (0.3ms)
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#index (for 127.0.0.1 at 2010-04-27 17:33:19) [GET]
+Rendering template within layouts/application
+Rendering controls/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/controls]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:33:19) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:33:19) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:33:21) [POST]
+Rendered controls/_new_content (0.9ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:33:22) [GET]
+
+ActionController::MethodNotAllowed (Only post requests are allowed.):
+  
+
+Rendered rescues/_trace (25.7ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (method_not_allowed)
+
+
+Processing ControlsController#index (for 127.0.0.1 at 2010-04-27 17:33:24) [GET]
+Rendering template within layouts/application
+Rendering controls/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/controls]
+
+
+Processing ControlsController#index (for 127.0.0.1 at 2010-04-27 17:33:45) [GET]
+Rendering template within layouts/application
+Rendering controls/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/controls]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:33:45) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:33:45) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:33:46) [POST]
+Rendered controls/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:33:48) [POST]
+Rendered controls/_new_content (0.3ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:33:50) [POST]
+Rendered controls/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#index (for 127.0.0.1 at 2010-04-27 17:33:55) [GET]
+Rendering template within layouts/application
+Rendering controls/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/controls]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:33:56) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:33:56) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:33:57) [POST]
+Rendered controls/_new_content (0.9ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:33:58) [POST]
+Rendered controls/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:33:58) [POST]
+Rendered controls/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:33:59) [POST]
+Rendered controls/_new_content (0.4ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:33:59) [POST]
+Rendered controls/_new_content (0.4ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:33:59) [POST]
+Rendered controls/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:33:59) [POST]
+Rendered controls/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:34:00) [POST]
+Rendered controls/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:34:00) [POST]
+Rendered controls/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:34:00) [POST]
+Rendered controls/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:34:00) [POST]
+Rendered controls/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:34:00) [POST]
+Rendered controls/_new_content (0.8ms)
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:34:00) [POST]
+Rendered controls/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-27 17:35:00) [GET]
+Rendering template within layouts/application
+Rendering full_separation/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/full_separation]
+
+
+Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-27 17:35:01) [GET]
+Rendering template within layouts/application
+Rendering full_separation/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/full_separation]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:35:01) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:35:01) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-27 17:35:29) [GET]
+Rendering template within layouts/application
+Rendering full_separation/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/full_separation]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:35:29) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:35:29) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-27 17:35:52) [GET]
+Rendering template within layouts/application
+Rendering full_separation/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/full_separation]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:35:53) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:35:53) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:35:54) [POST]
+Rendered full_separation/_new_content (0.8ms)
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:35:55) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:35:56) [POST]
+Rendered full_separation/_new_content (0.4ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:35:57) [GET]
+
+ActionController::MethodNotAllowed (Only post requests are allowed.):
+  
+
+Rendered rescues/_trace (26.2ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (method_not_allowed)
+
+
+Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-27 17:35:58) [GET]
+Rendering template within layouts/application
+Rendering full_separation/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/full_separation]
+
+
+Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-27 17:36:31) [GET]
+Rendering template within layouts/application
+Rendering full_separation/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/full_separation]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:36:32) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:36:32) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:36:33) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:36:36) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-27 17:36:40) [GET]
+Rendering template within layouts/application
+Rendering full_separation/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/full_separation]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:36:40) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:36:40) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:36:41) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:36:42) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:36:43) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:36:43) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
