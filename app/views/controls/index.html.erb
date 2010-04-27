@@ -1,0 +1,11 @@
+<h1>Controls</h1>
+
+<div id="someElement">
+  some text that's replaced later
+</div>
+<%= link_to 'Replace', controls_replace_path, :id => 'replacerLink' %>
+<script type="text/javascript" charset="utf-8">
+  document.observe('dom:loaded', function() {
+    var replacer = new Replacer('replacerLink', 'someElement');
+  });
+</script>

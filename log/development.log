@@ -1,0 +1,303 @@
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:00:57) [GET]
+
+ActionController::RoutingError (No route matches "/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#controls (for 127.0.0.1 at 2010-04-27 17:01:00) [GET]
+
+NoMethodError (undefined method `call' for HomeController:Class):
+  
+
+Rendered rescues/_trace (26.6ms)
+Rendered rescues/_request_and_response (1.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HomeController#controls (for 127.0.0.1 at 2010-04-27 17:01:12) [GET]
+Rendering template within layouts/application
+Rendering home/controls
+Completed in 72ms (View: 71, DB: 0) | 200 OK [http://localhost/controls]
+
+
+Processing HomeController#classic_solution (for 127.0.0.1 at 2010-04-27 17:01:18) [GET]
+Rendering template within layouts/application
+Rendering home/classic_solution
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/classic_solution]
+
+
+Processing HomeController#controls (for 127.0.0.1 at 2010-04-27 17:01:23) [GET]
+Rendering template within layouts/application
+Rendering home/controls
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/controls]
+
+
+Processing HomeController#full_separation (for 127.0.0.1 at 2010-04-27 17:01:27) [GET]
+Rendering template within layouts/application
+Rendering home/full_separation
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/full_separation]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:04:10) [GET]
+
+ActionController::RoutingError (No route matches "/full_separation" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-27 17:04:35) [GET]
+
+ActionView::MissingTemplate (Missing template full_separation/index.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-27 17:05:48) [GET]
+Rendering template within layouts/application
+Rendering full_separation/index
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/full_separation]
+
+
+Processing ControlsController#index (for 127.0.0.1 at 2010-04-27 17:05:52) [GET]
+Rendering template within layouts/application
+Rendering controls/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/controls]
+
+
+Processing ClassicSolutionController#index (for 127.0.0.1 at 2010-04-27 17:05:54) [GET]
+Rendering template within layouts/application
+Rendering classic_solution/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/classic_solution]
+
+
+Processing ClassicSolutionController#index (for 127.0.0.1 at 2010-04-27 17:10:45) [GET]
+Rendering template within layouts/application
+Rendering classic_solution/index
+Completed in 144ms (View: 142, DB: 0) | 200 OK [http://localhost/classic_solution]
+
+
+Processing ClassicSolutionController#index (for 127.0.0.1 at 2010-04-27 17:12:22) [GET]
+Rendering template within layouts/application
+Rendering classic_solution/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution]
+
+
+Processing ClassicSolutionController#index (for 127.0.0.1 at 2010-04-27 17:12:56) [GET]
+Rendering template within layouts/application
+Rendering classic_solution/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/classic_solution]
+
+
+Processing ClassicSolutionController#hide (for 127.0.0.1 at 2010-04-27 17:12:59) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/hide
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/classic_solution/hide]
+
+
+Processing ClassicSolutionController#index (for 127.0.0.1 at 2010-04-27 17:13:15) [GET]
+Rendering template within layouts/application
+Rendering classic_solution/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/classic_solution]
+
+
+Processing ClassicSolutionController#hide (for 127.0.0.1 at 2010-04-27 17:13:16) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/hide
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/classic_solution/hide]
+
+
+Processing ClassicSolutionController#index (for 127.0.0.1 at 2010-04-27 17:14:22) [GET]
+Rendering template within layouts/application
+Rendering classic_solution/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/classic_solution]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-27 17:14:24) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/replace
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#index (for 127.0.0.1 at 2010-04-27 17:15:23) [GET]
+Rendering template within layouts/application
+Rendering classic_solution/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/classic_solution]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-27 17:15:25) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (0.4ms)
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#index (for 127.0.0.1 at 2010-04-27 17:15:35) [GET]
+Rendering template within layouts/application
+Rendering classic_solution/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/classic_solution]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-27 17:15:37) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (0.4ms)
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ControlsController#index (for 127.0.0.1 at 2010-04-27 17:16:24) [GET]
+Rendering template within layouts/application
+Rendering controls/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/controls]
+
+
+Processing ControlsController#index (for 127.0.0.1 at 2010-04-27 17:21:00) [GET]
+Rendering template within layouts/application
+Rendering controls/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/controls]
+
+
+Processing ControlsController#index (for 127.0.0.1 at 2010-04-27 17:21:12) [GET]
+Rendering template within layouts/application
+Rendering controls/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/controls]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:21:14) [POST]
+Rendered controls/_new_content (0.5ms)
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-27 17:22:02) [GET]
+Rendering template within layouts/application
+Rendering full_separation/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/full_separation]
+
+
+Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-27 17:22:03) [GET]
+Rendering template within layouts/application
+Rendering full_separation/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/full_separation]
+
+
+Processing ControlsController#index (for 127.0.0.1 at 2010-04-27 17:23:03) [GET]
+Rendering template within layouts/application
+Rendering controls/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/controls]
+
+
+Processing ControlsController#index (for 127.0.0.1 at 2010-04-27 17:23:04) [GET]
+Rendering template within layouts/application
+Rendering controls/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/controls]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:23:05) [POST]
+Rendered controls/_new_content (0.1ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#index (for 127.0.0.1 at 2010-04-27 17:23:10) [GET]
+Rendering template within layouts/application
+Rendering controls/index
+Completed in 88ms (View: 86, DB: 0) | 200 OK [http://localhost/controls]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-27 17:23:11) [POST]
+Rendered controls/_new_content (0.5ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ClassicSolutionController#index (for 127.0.0.1 at 2010-04-27 17:23:15) [GET]
+Rendering template within layouts/application
+Rendering classic_solution/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/classic_solution]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-27 17:23:17) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (0.4ms)
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-27 17:23:18) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (0.1ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-27 17:23:18) [POST]
+  Parameters: {"authenticity_token"=>"AY0J0BgjbtnrewKIrWlkhSUJjovl68AEdB5Pw+F4RGQ=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (0.1ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-27 17:23:21) [GET]
+Rendering template within layouts/application
+Rendering full_separation/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/full_separation]
+
+
+Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-27 17:24:36) [GET]
+Rendering template within layouts/application
+Rendering full_separation/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/full_separation]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-27 17:24:37) [POST]
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (0.1ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-27 17:24:55) [GET]
+Rendering template within layouts/application
+Rendering full_separation/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/full_separation]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:24:56) [POST]
+
+ActionController::UnknownAction (No action responded to replace. Actions: index and post):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-27 17:25:06) [GET]
+Rendering template within layouts/application
+Rendering full_separation/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/full_separation]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:25:08) [POST]
+
+ActionView::MissingTemplate (Missing template full_separation/replace.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-27 17:25:27) [GET]
+Rendering template within layouts/application
+Rendering full_separation/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/full_separation]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:25:28) [POST]
+Rendered full_separation/_new_content (0.5ms)
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-27 17:25:39) [GET]
+Rendering template within layouts/application
+Rendering full_separation/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/full_separation]
