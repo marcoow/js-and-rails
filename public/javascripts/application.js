@@ -1,40 +1,31 @@
-var Replacer = Class.create({
+var Application = (function() {
 
-  initialize: function(container, target) {
-    this.container = $(container);
-    this.target    = $(target);
-    this.container.observe('click', this.onClick.bindAsEventListener(this));
-  },
-
-  onClick: function(event) {
-    event.stop();
-    new Ajax.Updater(
-      this.target,
-      this.container.href, {
-        method:      'post',
-        evalScripts: true
-      }
-    );
-  }
-
-});
-
-var Application = {
-
-  initializeReplacers: function() {
+  var initializeReplacers = function() {
     $$('a[data-replaces]').each(function(replacingLink) {
       if (!replacingLink._initializedReplacer) {
         new Replacer(replacingLink, replacingLink.readAttribute('data-replaces'));
         replacingLink._initializedReplacer = true;
       }
     });
+  };
+
+  return {
+
+    setupOnLoad: function() {
+      initializeReplacers();
+    },
+
+    setupOnPageUpdate: function() {
+      initializeReplacers();
+    }
+
   }
 
-};
+})();
 
 document.observe('dom:loaded', function() {
-  Application.initializeReplacers();
+  Application.setupOnLoad();
   Ajax.Responders.register({
-    onComplete: Application.initializeReplacers
+    onComplete: Application.setupOnPageUpdate
   });
 });
