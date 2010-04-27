@@ -15,4 +15,6 @@ ActionController::Routing::Routes.draw do |map|
     map.controls_replace '/controls/replace', :action => 'replace', :conditions => { :method => :post }
   end
 
+  map.root :controller => 'home', :action => 'index'
+
 end

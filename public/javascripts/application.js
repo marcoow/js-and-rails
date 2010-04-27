@@ -19,18 +19,22 @@ var Replacer = Class.create({
 
 });
 
-function initializeReplacers() {
-  $$('a[data-replaces]').each(function(replacingLink) {
-    if (!replacingLink._initializedReplacer) {
-      new Replacer(replacingLink, replacingLink.readAttribute('data-replaces'));
-      replacingLink._initializedReplacer = true;
-    }
-  });
-}
+var Application = {
+
+  initializeReplacers: function() {
+    $$('a[data-replaces]').each(function(replacingLink) {
+      if (!replacingLink._initializedReplacer) {
+        new Replacer(replacingLink, replacingLink.readAttribute('data-replaces'));
+        replacingLink._initializedReplacer = true;
+      }
+    });
+  }
+
+};
 
 document.observe('dom:loaded', function() {
-  initializeReplacers();
+  Application.initializeReplacers();
   Ajax.Responders.register({
-    onComplete: initializeReplacers
+    onComplete: Application.initializeReplacers
   });
 });

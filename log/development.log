@@ -1214,3 +1214,388 @@ Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/rep
 Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:36:43) [POST]
 Rendered full_separation/_new_content (0.3ms)
 Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:38:56) [GET]
+
+ActionController::RoutingError (No route matches "/" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-27 17:38:59) [GET]
+Rendering template within layouts/application
+Rendering full_separation/index
+Completed in 22ms (View: 20, DB: 0) | 200 OK [http://localhost/full_separation]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:39:01) [POST]
+Rendered full_separation/_new_content (0.8ms)
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:39:02) [POST]
+Rendered full_separation/_new_content (0.4ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:39:03) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:39:03) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:39:20) [GET]
+
+ActionController::RoutingError (No route matches "/g/positions" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-27 17:40:15) [GET]
+Rendering template within layouts/application
+Rendering full_separation/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/full_separation]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:40:15) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:40:17) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:40:17) [POST]
+Rendered full_separation/_new_content (0.4ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:40:17) [POST]
+Rendered full_separation/_new_content (0.4ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:40:17) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:40:18) [POST]
+Rendered full_separation/_new_content (0.4ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:40:19) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:40:19) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:40:19) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:40:19) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:40:19) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-27 17:41:06) [GET]
+Rendering template within layouts/application
+Rendering full_separation/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/full_separation]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:41:06) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/screen.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:41:06) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:41:10) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-27 17:41:51) [GET]
+Rendering template within layouts/application
+Rendering full_separation/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/full_separation]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:41:51) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:41:51) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-27 17:42:32) [GET]
+Rendering template within layouts/application
+Rendering full_separation/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/full_separation]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:42:32) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:42:32) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-27 17:42:38) [GET]
+Rendering template within layouts/application
+Rendering full_separation/index
+Completed in 70ms (View: 69, DB: 0) | 200 OK [http://localhost/full_separation]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:42:38) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:42:38) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-27 17:42:45) [GET]
+Rendering template within layouts/application
+Rendering full_separation/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/full_separation]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:42:45) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:42:45) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-27 17:42:51) [GET]
+Rendering template within layouts/application
+Rendering full_separation/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/full_separation]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:42:51) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:42:51) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-27 17:42:54) [GET]
+Rendering template within layouts/application
+Rendering full_separation/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/full_separation]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:42:55) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-27 17:42:55) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:42:57) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:43:00) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:43:00) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:43:01) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:43:01) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:43:01) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:43:01) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:43:02) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:43:02) [POST]
+Rendered full_separation/_new_content (0.4ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:43:02) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:43:02) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:43:02) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:43:02) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:43:03) [POST]
+Rendered full_separation/_new_content (0.4ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:43:03) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-04-27 17:45:26) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 86ms (View: 85, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ClassicSolutionController#index (for 127.0.0.1 at 2010-04-27 17:45:29) [GET]
+Rendering template within layouts/application
+Rendering classic_solution/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/classic_solution]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-04-27 17:45:30) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ControlsController#index (for 127.0.0.1 at 2010-04-27 17:45:31) [GET]
+Rendering template within layouts/application
+Rendering controls/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/controls]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-04-27 17:45:32) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-27 17:45:33) [GET]
+Rendering template within layouts/application
+Rendering full_separation/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/full_separation]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-04-27 17:45:34) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
