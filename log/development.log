@@ -1777,3 +1777,718 @@ Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/rep
 Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-27 17:56:52) [POST]
 Rendered full_separation/_new_content (0.3ms)
 Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-04-28 13:46:29) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 142ms (View: 141, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ClassicSolutionController#index (for 127.0.0.1 at 2010-04-28 13:46:31) [GET]
+Rendering template within layouts/application
+Rendering classic_solution/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/classic_solution]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-28 13:46:32) [POST]
+  Parameters: {"authenticity_token"=>"BxunRrcECMIfNcwg8gIe0voyNTJhTzHEu02mS+JJgYc=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.7ms)
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-28 13:46:33) [POST]
+  Parameters: {"authenticity_token"=>"BxunRrcECMIfNcwg8gIe0voyNTJhTzHEu02mS+JJgYc=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.2ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-28 13:46:33) [POST]
+  Parameters: {"authenticity_token"=>"BxunRrcECMIfNcwg8gIe0voyNTJhTzHEu02mS+JJgYc=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.3ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-28 13:46:34) [POST]
+  Parameters: {"authenticity_token"=>"BxunRrcECMIfNcwg8gIe0voyNTJhTzHEu02mS+JJgYc=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.2ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-28 13:46:34) [POST]
+  Parameters: {"authenticity_token"=>"BxunRrcECMIfNcwg8gIe0voyNTJhTzHEu02mS+JJgYc=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.2ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-28 13:46:34) [POST]
+  Parameters: {"authenticity_token"=>"BxunRrcECMIfNcwg8gIe0voyNTJhTzHEu02mS+JJgYc=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.8ms)
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-28 13:46:35) [POST]
+  Parameters: {"authenticity_token"=>"BxunRrcECMIfNcwg8gIe0voyNTJhTzHEu02mS+JJgYc=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.2ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-28 13:46:35) [POST]
+  Parameters: {"authenticity_token"=>"BxunRrcECMIfNcwg8gIe0voyNTJhTzHEu02mS+JJgYc=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.2ms)
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-28 13:46:35) [POST]
+  Parameters: {"authenticity_token"=>"BxunRrcECMIfNcwg8gIe0voyNTJhTzHEu02mS+JJgYc=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.3ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#index (for 127.0.0.1 at 2010-04-28 13:46:59) [GET]
+Rendering template within layouts/application
+Rendering classic_solution/index
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/classic_solution]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-28 13:46:59) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-04-28 13:47:00) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ClassicSolutionController#index (for 127.0.0.1 at 2010-04-28 13:47:02) [GET]
+Rendering template within layouts/application
+Rendering classic_solution/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/classic_solution]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-04-28 13:47:02) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ControlsController#index (for 127.0.0.1 at 2010-04-28 13:47:03) [GET]
+Rendering template within layouts/application
+Rendering controls/index
+Completed in 32ms (View: 31, DB: 0) | 200 OK [http://localhost/controls]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-04-28 13:47:04) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-28 13:47:05) [GET]
+Rendering template within layouts/application
+Rendering full_separation/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/full_separation]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-28 13:47:06) [POST]
+Rendered full_separation/_new_content (14.9ms)
+Completed in 21ms (View: 19, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-28 13:47:06) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-28 13:47:07) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-28 13:47:07) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-28 13:47:07) [POST]
+Rendered full_separation/_new_content (0.4ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-28 13:47:08) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-28 13:47:08) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-28 13:47:08) [POST]
+Rendered full_separation/_new_content (0.4ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-28 13:47:08) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-28 13:47:09) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-28 13:47:09) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-04-28 13:47:09) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ControlsController#index (for 127.0.0.1 at 2010-04-28 13:47:10) [GET]
+Rendering template within layouts/application
+Rendering controls/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/controls]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-28 13:47:11) [POST]
+Rendered controls/_new_content (0.9ms)
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-28 13:47:12) [POST]
+Rendered controls/_new_content (0.3ms)
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-28 13:47:12) [POST]
+Rendered controls/_new_content (0.4ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-28 13:47:12) [POST]
+Rendered controls/_new_content (0.3ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-28 13:47:12) [POST]
+Rendered controls/_new_content (0.4ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-04-28 13:47:13) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ClassicSolutionController#index (for 127.0.0.1 at 2010-04-28 13:47:14) [GET]
+Rendering template within layouts/application
+Rendering classic_solution/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/classic_solution]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-28 13:47:15) [POST]
+  Parameters: {"authenticity_token"=>"BxunRrcECMIfNcwg8gIe0voyNTJhTzHEu02mS+JJgYc=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.2ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-28 13:47:16) [POST]
+  Parameters: {"authenticity_token"=>"BxunRrcECMIfNcwg8gIe0voyNTJhTzHEu02mS+JJgYc=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.6ms)
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-28 13:47:16) [POST]
+  Parameters: {"authenticity_token"=>"BxunRrcECMIfNcwg8gIe0voyNTJhTzHEu02mS+JJgYc=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.2ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-28 13:47:16) [POST]
+  Parameters: {"authenticity_token"=>"BxunRrcECMIfNcwg8gIe0voyNTJhTzHEu02mS+JJgYc=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.2ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-28 13:47:16) [POST]
+  Parameters: {"authenticity_token"=>"BxunRrcECMIfNcwg8gIe0voyNTJhTzHEu02mS+JJgYc=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.2ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-28 13:47:17) [POST]
+  Parameters: {"authenticity_token"=>"BxunRrcECMIfNcwg8gIe0voyNTJhTzHEu02mS+JJgYc=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.2ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-28 13:47:17) [POST]
+  Parameters: {"authenticity_token"=>"BxunRrcECMIfNcwg8gIe0voyNTJhTzHEu02mS+JJgYc=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.2ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-28 13:47:17) [POST]
+  Parameters: {"authenticity_token"=>"BxunRrcECMIfNcwg8gIe0voyNTJhTzHEu02mS+JJgYc=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.2ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-28 13:47:17) [POST]
+  Parameters: {"authenticity_token"=>"BxunRrcECMIfNcwg8gIe0voyNTJhTzHEu02mS+JJgYc=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.2ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-28 13:47:17) [POST]
+  Parameters: {"authenticity_token"=>"BxunRrcECMIfNcwg8gIe0voyNTJhTzHEu02mS+JJgYc=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.2ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-28 13:47:18) [POST]
+  Parameters: {"authenticity_token"=>"BxunRrcECMIfNcwg8gIe0voyNTJhTzHEu02mS+JJgYc=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.2ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-28 13:47:18) [POST]
+  Parameters: {"authenticity_token"=>"BxunRrcECMIfNcwg8gIe0voyNTJhTzHEu02mS+JJgYc=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.3ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-28 13:50:03) [GET]
+
+ActionController::RoutingError (No route matches "/g/positions/597046/edit" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-28 13:50:03) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-28 13:50:03) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-28 13:50:05) [GET]
+
+ActionController::RoutingError (No route matches "/g/positions/597043/edit" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-04-28 13:51:06) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-28 14:51:31) [GET]
+
+ActionController::RoutingError (No route matches "/g/positions" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-04-28 18:31:21) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 253ms (View: 251, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-28 18:31:21) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-28 18:31:21) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-04-28 18:31:28) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-28 18:31:28) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-28 18:31:28) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ClassicSolutionController#index (for 127.0.0.1 at 2010-04-28 18:31:29) [GET]
+Rendering template within layouts/application
+Rendering classic_solution/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/classic_solution]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-28 18:31:30) [POST]
+  Parameters: {"authenticity_token"=>"BxunRrcECMIfNcwg8gIe0voyNTJhTzHEu02mS+JJgYc=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (2.4ms)
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-28 18:31:31) [POST]
+  Parameters: {"authenticity_token"=>"BxunRrcECMIfNcwg8gIe0voyNTJhTzHEu02mS+JJgYc=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.7ms)
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-04-28 18:31:32) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ControlsController#index (for 127.0.0.1 at 2010-04-28 18:31:33) [GET]
+Rendering template within layouts/application
+Rendering controls/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/controls]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-28 18:31:34) [POST]
+Rendered controls/_new_content (1.8ms)
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing ControlsController#replace (for 127.0.0.1 at 2010-04-28 18:31:34) [POST]
+Rendered controls/_new_content (0.4ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/controls/replace]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-04-28 18:31:35) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-28 18:31:36) [GET]
+Rendering template within layouts/application
+Rendering full_separation/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/full_separation]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-28 18:31:37) [POST]
+Rendered full_separation/_new_content (27.2ms)
+Completed in 33ms (View: 31, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-28 18:31:38) [POST]
+Rendered full_separation/_new_content (0.4ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-04-28 18:31:38) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-04-28 19:15:52) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-28 19:15:52) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-28 19:15:52) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-28 19:16:05) [GET]
+
+ActionController::RoutingError (No route matches "/g/positions" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-04-28 20:39:15) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ClassicSolutionController#index (for 127.0.0.1 at 2010-04-28 20:39:22) [GET]
+Rendering template within layouts/application
+Rendering classic_solution/index
+Completed in 48ms (View: 47, DB: 0) | 200 OK [http://localhost/classic_solution]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-28 20:39:27) [POST]
+  Parameters: {"authenticity_token"=>"OFUh/xT1h+UFDCyipXquGH0pBU8TKT/nWwmzCNeEUmM=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.1ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-28 20:39:34) [POST]
+  Parameters: {"authenticity_token"=>"OFUh/xT1h+UFDCyipXquGH0pBU8TKT/nWwmzCNeEUmM=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.6ms)
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-28 20:39:34) [POST]
+  Parameters: {"authenticity_token"=>"OFUh/xT1h+UFDCyipXquGH0pBU8TKT/nWwmzCNeEUmM=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.3ms)
+Completed in 69ms (View: 3, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-28 20:39:35) [POST]
+  Parameters: {"authenticity_token"=>"OFUh/xT1h+UFDCyipXquGH0pBU8TKT/nWwmzCNeEUmM=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.2ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-28 20:39:36) [POST]
+  Parameters: {"authenticity_token"=>"OFUh/xT1h+UFDCyipXquGH0pBU8TKT/nWwmzCNeEUmM=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.2ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-28 20:42:16) [GET]
+
+ActionController::RoutingError (No route matches "/g/positions" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-04-28 20:44:00) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-28 20:44:01) [GET]
+Rendering template within layouts/application
+Rendering full_separation/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/full_separation]
+
+
+Processing FullSeparationController#index (for 127.0.0.1 at 2010-04-28 20:46:53) [GET]
+Rendering template within layouts/application
+Rendering full_separation/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/full_separation]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-28 20:46:53) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-28 20:47:24) [POST]
+Rendered full_separation/_new_content (0.4ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-28 20:48:41) [POST]
+Rendered full_separation/_new_content (0.4ms)
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-28 20:48:42) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-28 20:48:42) [POST]
+Rendered full_separation/_new_content (0.4ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-28 20:48:42) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-28 20:48:43) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-28 20:48:43) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-28 20:48:43) [POST]
+Rendered full_separation/_new_content (0.4ms)
+Completed in 70ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-28 20:48:43) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-28 20:48:43) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-28 20:48:44) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-28 20:48:44) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-28 20:48:44) [POST]
+Rendered full_separation/_new_content (0.3ms)
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing FullSeparationController#replace (for 127.0.0.1 at 2010-04-28 20:48:44) [POST]
+Rendered full_separation/_new_content (0.4ms)
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/full_separation/replace]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2010-04-29 09:47:56) [GET]
+Rendering template within layouts/application
+Rendering home/index
+Completed in 210ms (View: 207, DB: 0) | 200 OK [http://localhost/]
+
+
+Processing ClassicSolutionController#index (for 127.0.0.1 at 2010-04-29 09:47:57) [GET]
+Rendering template within layouts/application
+Rendering classic_solution/index
+Completed in 35ms (View: 32, DB: 0) | 200 OK [http://localhost/classic_solution]
+
+
+Processing ClassicSolutionController#index (for 127.0.0.1 at 2010-04-29 09:48:08) [GET]
+Rendering template within layouts/application
+Rendering classic_solution/index
+Completed in 10ms (View: 7, DB: 0) | 200 OK [http://localhost/classic_solution]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-29 09:48:09) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ClassicSolutionController#index (for 127.0.0.1 at 2010-04-29 09:48:16) [GET]
+Rendering template within layouts/application
+Rendering classic_solution/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/classic_solution]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-29 09:48:16) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ClassicSolutionController#index (for 127.0.0.1 at 2010-04-29 09:49:21) [GET]
+Rendering template within layouts/application
+Rendering classic_solution/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/classic_solution]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-04-29 09:49:22) [GET]
+
+ActionController::RoutingError (No route matches "/favicon.ico" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ClassicSolutionController#replace (for 127.0.0.1 at 2010-04-29 09:49:23) [POST]
+  Parameters: {"authenticity_token"=>"OOz8fRSMcfMaz5zIaS9UIhjkVgdcP5o/lteP08heCgU=", "_"=>""}
+Rendering classic_solution/replace
+Rendered classic_solution/_new_content (1.7ms)
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://localhost/classic_solution/replace]
